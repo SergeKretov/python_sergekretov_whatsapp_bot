@@ -1,1 +1,0 @@
-# python_sergekretov_whatsapp_bot
